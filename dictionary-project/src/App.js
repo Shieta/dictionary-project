@@ -11,7 +11,6 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <section>
-          <h2>Enter a word...</h2>
           <main>
             <Dictionary />
           </main>
